@@ -1,4 +1,4 @@
 painting_name,painting_image,artist,price,medium,painting_jpg
-Starry Night,https://raw.githubusercontent.com/your-username/your-repo/main/images/starry_night_icon.png,Vincent van Gogh,$1,000,Oil on Canvas,https://raw.githubusercontent.com/your-username/your-repo/main/images/starry_night.jpg
-Mona Lisa,https://raw.githubusercontent.com/your-username/your-repo/main/images/mona_lisa_icon.png,Leonardo da Vinci,$2,000,Oil on Poplar,https://raw.githubusercontent.com/your-username/your-repo/main/images/mona_lisa.jpg
-The Scream,https://raw.githubusercontent.com/your-username/your-repo/main/images/the_scream_icon.png,Edvard Munch,$1,500,Tempera on Cardboard,https://raw.githubusercontent.com/your-username/your-repo/main/images/the_scream.jpg
+Starry Night,https://example.com/starry_night.png,Vincent van Gogh,$1,000,Oil on Canvas,https://example.com/starry_night.jpg
+Mona Lisa,https://example.com/mona_lisa.png,Leonardo da Vinci,$2,000,Oil on Poplar,https://example.com/mona_lisa.jpg
+The Scream,https://example.com/the_scream.png,Edvard Munch,$1,500,Tempera on Cardboard,https://example.com/the_scream.jpg
