@@ -1,0 +1,6 @@
+Painting Name,Painting Image,Artist,Price,Medium
+Sunset Bliss,https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/sunset_bliss.jpg?alt=media,John Doe,$250,Acrylic on Canvas
+Ocean Breeze,https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/ocean_breeze.jpg?alt=media,Jane Smith,$300,Watercolor
+Golden Hour,https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/golden_hour.jpg?alt=media,Alice Brown,$200,Oil Painting
+Abstract Dreams,https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/abstract_dreams.jpg?alt=media,Michael Scott,$180,Mixed Media
+Nature's Whisper,https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/natures_whisper.jpg?alt=media,Sophia Lee,$220,Acrylic on Canvas
