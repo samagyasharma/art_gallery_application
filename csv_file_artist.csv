@@ -1,10 +1,4 @@
 painting_name,artist,price,description,painting_jpg
-Starry Night,Samagya Sharma,1000,Oil on Canvas,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Starry_Night_Over_the_Rhone.jpg/450px-Starry_Night_Over_the_Rhone.jpg
-Mona Lisa,Divya Srivastava,1000,Oil on Poplar,https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg
-The Scream,Samagya Sharma,1000,Tempera on Cardboard,https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg
-Sample Painting 3,Samagya Sharma,1000,Oil on Canvas,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Starry_Night_Over_the_Rhone.jpg/450px-Starry_Night_Over_the_Rhone.jpg
-Sample Painting 1,Divya Srivastava,1000,Oil on Poplar,https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg
-Sample Painting 5,Samagya Sharma,1000,Tempera on Cardboard,https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg
-Starry Night2,Samagya Sharma,1000,Oil on Canvas,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Starry_Night_Over_the_Rhone.jpg/450px-Starry_Night_Over_the_Rhone.jpg
-Sample Painting 6,Divya Srivastava,1000,Oil on Poplar,https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg
-Sample Painting 7,Samagya Sharma,1000,Tempera on Cardboard,https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg
+Lakeside,Samagya Sharma,1000,Watercolor on paper,https://raw.githubusercontent.com/samagyasharma/art_gallery_application/main/Lakeside.jpeg
+Blooming Flowers,Samagya Sharma,500,Acrylic on Canvas,https://raw.githubusercontent.com/samagyasharma/art_gallery_application/main/Blooming%20Flowers.jpeg
+Mystery,Samagya Sharma,1000,Mixed media,https://raw.githubusercontent.com/samagyasharma/art_gallery_application/main/Mystery.jpeg
